@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">网易云音乐</string>
+    <string name="land">手机号登录</string>
+    <string name="phone">手机登录</string>
+    <string name="register">注册</string>
+    <string name="land2">登录</string>
+    <string name="land1">登录</string>
+    <string name="please_typ_your_password">Please typ your password</string>
+    <string name="please_typ_your_phone_number">Please typ your phone number</string>
+</resources>
